@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "TSM",
+    "name": "TSMC",
+    "units": 0.600104695,
+    "avg_price": 375.13,
+    "sector": "Semiconductores",
+    "country": "Taiwán"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron",
+    "units": 0.752175379,
+    "avg_price": 598.26,
+    "sector": "Semiconductores",
+    "country": "USA"
+  },
+  {
+    "ticker": "EWY",
+    "name": "iShares Korea",
+    "units": 2.537459579,
+    "avg_price": 147.79,
+    "sector": "ETF",
+    "country": "Corea"
+  },
+  {
+    "ticker": "URA",
+    "name": "Global X Uranium",
+    "units": 2.806350946,
+    "avg_price": 53.45,
+    "sector": "ETF Uranio",
+    "country": "USA"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA",
+    "units": 0.569287853,
+    "avg_price": 193.22,
+    "sector": "Semiconductores",
+    "country": "USA"
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML",
+    "units": 0.137293226,
+    "avg_price": 1456.74,
+    "sector": "Semiconductores",
+    "country": "Holanda"
+  },
+  {
+    "ticker": "MELI",
+    "name": "MercadoLibre",
+    "units": 0.11890999,
+    "avg_price": 1693.3,
+    "sector": "eCommerce",
+    "country": "Argentina"
+  },
+  {
+    "ticker": "BABA",
+    "name": "Alibaba",
+    "units": 0.580954684,
+    "avg_price": 146.31,
+    "sector": "eCommerce",
+    "country": "China"
+  },
+  {
+    "ticker": "OSCR",
+    "name": "Oscar Health",
+    "units": 2.05848206,
+    "avg_price": 24.29,
+    "sector": "Healthcare",
+    "country": "USA"
+  }
+]

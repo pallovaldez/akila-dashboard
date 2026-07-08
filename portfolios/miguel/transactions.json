@@ -1,0 +1,326 @@
+[
+  {
+    "ticker": "MU",
+    "type": "buy",
+    "date": "2026-04-10",
+    "price": 421.29,
+    "quantity": 0.11868309,
+    "notes": "",
+    "id": "f49fda70"
+  },
+  {
+    "ticker": "MU",
+    "type": "buy",
+    "date": "2026-04-21",
+    "price": 447.27,
+    "quantity": 0.1117883,
+    "notes": "",
+    "id": "98cc58f5"
+  },
+  {
+    "ticker": "MU",
+    "type": "buy",
+    "date": "2026-05-06",
+    "price": 638.4,
+    "quantity": 0.23496093,
+    "notes": "",
+    "id": "64379d1d"
+  },
+  {
+    "ticker": "MU",
+    "type": "buy",
+    "date": "2026-05-12",
+    "price": 740.77,
+    "quantity": 0.1349943,
+    "notes": "",
+    "id": "61f48bec"
+  },
+  {
+    "ticker": "MU",
+    "type": "buy",
+    "date": "2026-05-19",
+    "price": 658.98,
+    "quantity": 0.15174875,
+    "notes": "",
+    "id": "40454a9e"
+  },
+  {
+    "ticker": "TSM",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 368.31,
+    "quantity": 0.27151041,
+    "notes": "",
+    "id": "d9f0bc11"
+  },
+  {
+    "ticker": "TSM",
+    "type": "buy",
+    "date": "2026-03-03",
+    "price": 352.97,
+    "quantity": 0.07116752,
+    "notes": "",
+    "id": "358653d1"
+  },
+  {
+    "ticker": "TSM",
+    "type": "buy",
+    "date": "2026-05-12",
+    "price": 388.46,
+    "quantity": 0.25742676,
+    "notes": "",
+    "id": "7f032ca3"
+  },
+  {
+    "ticker": "EWY",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 140.33,
+    "quantity": 1.78156578,
+    "notes": "",
+    "id": "92407e92"
+  },
+  {
+    "ticker": "EWY",
+    "type": "buy",
+    "date": "2026-03-03",
+    "price": 131.62,
+    "quantity": 0.18994362,
+    "notes": "",
+    "id": "f9df85ed"
+  },
+  {
+    "ticker": "EWY",
+    "type": "buy",
+    "date": "2026-05-12",
+    "price": 176.69,
+    "quantity": 0.56595017,
+    "notes": "",
+    "id": "82106ce9"
+  },
+  {
+    "ticker": "URA",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 53.45,
+    "quantity": 2.80635095,
+    "notes": "",
+    "id": "df7c79cf"
+  },
+  {
+    "ticker": "NVDA",
+    "type": "buy",
+    "date": "2026-04-10",
+    "price": 188.51,
+    "quantity": 0.31828888,
+    "notes": "",
+    "id": "e3c0ac21"
+  },
+  {
+    "ticker": "NVDA",
+    "type": "buy",
+    "date": "2026-04-23",
+    "price": 199.2,
+    "quantity": 0.25099898,
+    "notes": "",
+    "id": "b433a968"
+  },
+  {
+    "ticker": "ASML",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 1466.22,
+    "quantity": 0.06820278,
+    "notes": "",
+    "id": "564487ac"
+  },
+  {
+    "ticker": "ASML",
+    "type": "buy",
+    "date": "2026-05-19",
+    "price": 1447.38,
+    "quantity": 0.06909045,
+    "notes": "",
+    "id": "3c544888"
+  },
+  {
+    "ticker": "MELI",
+    "type": "buy",
+    "date": "2026-04-10",
+    "price": 1773.6,
+    "quantity": 0.01767589,
+    "notes": "",
+    "id": "5cd8456d"
+  },
+  {
+    "ticker": "MELI",
+    "type": "buy",
+    "date": "2026-04-21",
+    "price": 1872.43,
+    "quantity": 0.01602194,
+    "notes": "",
+    "id": "14b8ad2d"
+  },
+  {
+    "ticker": "MELI",
+    "type": "buy",
+    "date": "2026-04-23",
+    "price": 1809.19,
+    "quantity": 0.02210939,
+    "notes": "",
+    "id": "d8169143"
+  },
+  {
+    "ticker": "MELI",
+    "type": "buy",
+    "date": "2026-05-12",
+    "price": 1553.14,
+    "quantity": 0.03219289,
+    "notes": "",
+    "id": "25bfbf29"
+  },
+  {
+    "ticker": "MELI",
+    "type": "buy",
+    "date": "2026-05-19",
+    "price": 1617.61,
+    "quantity": 0.03090988,
+    "notes": "",
+    "id": "17ff9037"
+  },
+  {
+    "ticker": "BABA",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 153.74,
+    "quantity": 0.39026929,
+    "notes": "",
+    "id": "e300351e"
+  },
+  {
+    "ticker": "BABA",
+    "type": "buy",
+    "date": "2026-04-23",
+    "price": 131.11,
+    "quantity": 0.1906854,
+    "notes": "",
+    "id": "31f28e1c"
+  },
+  {
+    "ticker": "OSCR",
+    "type": "buy",
+    "date": "2026-05-19",
+    "price": 24.29,
+    "quantity": 2.05848206,
+    "notes": "",
+    "id": "55f0f7c9"
+  },
+  {
+    "ticker": "EWZ",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 38.68,
+    "quantity": 5.170986224,
+    "notes": "",
+    "id": "08d4f9ce"
+  },
+  {
+    "ticker": "PPA",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 180.15,
+    "quantity": 1.110173631,
+    "notes": "",
+    "id": "755ed43d"
+  },
+  {
+    "ticker": "GLD",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 464.86,
+    "quantity": 0.107559727,
+    "notes": "",
+    "id": "9d46f331"
+  },
+  {
+    "ticker": "GLD",
+    "type": "sell",
+    "date": "2026-04-10",
+    "price": 437.15,
+    "quantity": 0.107559727,
+    "notes": "Venta Total GLD",
+    "id": "52d42c2e"
+  },
+  {
+    "ticker": "PPA",
+    "type": "sell",
+    "date": "2026-04-10",
+    "price": 174.78,
+    "quantity": 0.537937435,
+    "notes": "Venta parcial PPA",
+    "id": "532c6c80"
+  },
+  {
+    "ticker": "PPA",
+    "type": "sell",
+    "date": "2026-04-21",
+    "price": 172.01,
+    "quantity": 0.572236196,
+    "notes": "Venta restante PPA",
+    "id": "e69b8432"
+  },
+  {
+    "ticker": "EWZ",
+    "type": "sell",
+    "date": "2026-05-06",
+    "price": 39.69,
+    "quantity": 5.17098622,
+    "notes": "Venta total EWZ",
+    "id": "67ac3e75"
+  },
+  {
+    "ticker": "DRAM",
+    "type": "buy",
+    "date": "2026-06-04",
+    "price": 65.6,
+    "quantity": 2.286587327,
+    "notes": "",
+    "id": "c47bb9f7"
+  },
+  {
+    "ticker": "MU",
+    "type": "sell",
+    "date": "2026-06-18",
+    "price": 1108.56,
+    "quantity": 0.180342651,
+    "notes": "Toma de utilidades parcial",
+    "id": "192eef51"
+  },
+  {
+    "ticker": "BABA",
+    "type": "buy",
+    "date": "2026-06-30",
+    "price": 96.59,
+    "quantity": 1.035346737,
+    "notes": "",
+    "id": "d4bb1b12"
+  },
+  {
+    "ticker": "NVDA",
+    "type": "buy",
+    "date": "2026-07-01",
+    "price": 198.34,
+    "quantity": 0.504194901,
+    "notes": "",
+    "id": "e19118b4"
+  },
+  {
+    "ticker": "FOUR",
+    "type": "buy",
+    "date": "2026-07-01",
+    "price": 49.52,
+    "quantity": 1.211729541,
+    "notes": "",
+    "id": "1c669b4d"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "TSM": {
+    "conviction": "Alta",
+    "next_cat": "Earnings Q2 — 16 Jul 2026",
+    "tesis": "TSMC reportó Q1 2026: $35.9B revenue (+58% YoY), gross margin 66.2%. Guidance FY2026 +30% YoY. Monopolio efectivo en nodos <5nm. AI/HPC como driver estructural."
+  },
+  "MU": {
+    "conviction": "Alta",
+    "next_cat": "Earnings Q3 FY2026 — Jun 2026",
+    "tesis": "Q2 FY2026: $23.9B revenue (+196% YoY), gross margin récord 75%. EPS $12.20 vs $9.21 est. Q3 guidance $33.5B, margen 81%. HBM3E + AI data center como re-rating catalyst."
+  },
+  "EWY": {
+    "conviction": "Media",
+    "next_cat": "Samsung Q2 Earnings — 30 Jul 2026",
+    "tesis": "ETF Korea +204% en el año. Beneficiario del superciclo AI vía Samsung/SK Hynix. Outperformance masivo vs. EM peers. Momentum técnico 10d MA > 50d MA."
+  },
+  "URA": {
+    "conviction": "Media",
+    "next_cat": "Uranium Spot Price — Semanal",
+    "tesis": "ETF uranio +112% en el año. Demanda nuclear estructural por AI hyperscalers. Reactor demand +28% al 2030. Supply tight Kazajistán (~40% output global)."
+  },
+  "NVDA": {
+    "conviction": "Muy Alta",
+    "next_cat": "Earnings Q1 FY2027 — 20 MAY 2026",
+    "tesis": "Goldman espera beat el 20 mayo: $80B revenue vs $78.3B consenso. FY2026 $215.9B (+65% YoY). Blackwell ramp en plena aceleración. 35 analistas BUY, PT promedio $274.91."
+  },
+  "ASML": {
+    "conviction": "Alta",
+    "next_cat": "Earnings Q2 — 16 Jul 2026",
+    "tesis": "Q1 2026: €8.8B ventas, gross margin 53%. Guidance 2026 elevado a €36-40B. Monopolio absoluto litografía EUV. Bernstein PT $1,971. BofA reitera Buy."
+  },
+  "MELI": {
+    "conviction": "Alta",
+    "next_cat": "Earnings Q2 2026 — Ago 2026",
+    "tesis": "Q1 2026 reportado 7 mayo: $8.85B revenue (+49% YoY, beat). EPS $8.23 miss por inversiones. +17M compradores activos. Margen EBITDA 9.7% vs 12.9% anterior."
+  },
+  "BABA": {
+    "conviction": "Media",
+    "next_cat": "Earnings Q4 FY2026 — 13 MAY 2026",
+    "tesis": "Earnings en 5 días. Consenso BUY PT $192 (+36% upside). Cotiza ~10x earnings vs Amazon. Cloud acelerando. Re-rating potencial si reducen tensiones US-China."
+  }
+}
