@@ -1,0 +1,155 @@
+[
+  {
+    "ticker": "AMD",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 201.37,
+    "quantity": 0.49660323,
+    "notes": "",
+    "id": "f640a836"
+  },
+  {
+    "ticker": "AMZN",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 208.74,
+    "quantity": 1.43720837,
+    "notes": "",
+    "id": "d1161eed"
+  },
+  {
+    "ticker": "BABA",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 153.91,
+    "quantity": 1.00057175,
+    "notes": "",
+    "id": "9d399e27"
+  },
+  {
+    "ticker": "EWY",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 140.51,
+    "quantity": 0.71170325,
+    "notes": "",
+    "id": "9850c957"
+  },
+  {
+    "ticker": "EWZ",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 38.75,
+    "quantity": 2.58064516,
+    "notes": "",
+    "id": "cfcfbf16"
+  },
+  {
+    "ticker": "GOOGL",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 313.54,
+    "quantity": 0.37781945,
+    "notes": "",
+    "id": "bb8ef2e8"
+  },
+  {
+    "ticker": "TSM",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 369.82,
+    "quantity": 1.00048672,
+    "notes": "",
+    "id": "0b28dfc8"
+  },
+  {
+    "ticker": "URA",
+    "type": "buy",
+    "date": "2026-02-20",
+    "price": 53.91,
+    "quantity": 1.8548058,
+    "notes": "",
+    "id": "74d33384"
+  },
+  {
+    "ticker": "PPA",
+    "type": "buy",
+    "date": "2026-02-23",
+    "price": 179.8,
+    "quantity": 0.27808676,
+    "notes": "",
+    "id": "04396e1a"
+  },
+  {
+    "ticker": "HIMS",
+    "type": "buy",
+    "date": "2026-04-17",
+    "price": 29.34,
+    "quantity": 1.7241374,
+    "notes": "",
+    "id": "c4800bf8"
+  },
+  {
+    "ticker": "PPA",
+    "type": "sell",
+    "date": "2026-04-17",
+    "price": 179.01,
+    "quantity": 0.27808676,
+    "notes": "Venta total PPA",
+    "id": "ae5cd6f6"
+  },
+  {
+    "ticker": "HIMS",
+    "type": "sell",
+    "date": "2026-05-11",
+    "price": 28.86,
+    "quantity": 1.7241374,
+    "notes": "Venta total HIMS",
+    "id": "ba005e0d"
+  },
+  {
+    "ticker": "SOFI",
+    "type": "buy",
+    "date": "2026-05-11",
+    "price": 16.04,
+    "quantity": 3.10355319,
+    "notes": "",
+    "id": "f1d6a5b2"
+  },
+  {
+    "ticker": "DRAM",
+    "type": "buy",
+    "date": "2026-06-06",
+    "price": 65.57,
+    "quantity": 2.28802424,
+    "notes": "",
+    "id": "24d76f81"
+  },
+  {
+    "ticker": "BABA",
+    "type": "buy",
+    "date": "2026-06-30",
+    "price": 96.58,
+    "quantity": 1.035368176,
+    "notes": "",
+    "id": "e53d2465"
+  },
+  {
+    "ticker": "HIMS",
+    "type": "buy",
+    "date": "2026-06-30",
+    "price": 33.92,
+    "quantity": 2.948141924,
+    "notes": "",
+    "id": "d6f636e3"
+  },
+  {
+    "ticker": "ADBE",
+    "type": "buy",
+    "date": "2026-06-30",
+    "price": 204.12,
+    "quantity": 0.489898297,
+    "notes": "",
+    "id": "7166f26d"
+  }
+]
