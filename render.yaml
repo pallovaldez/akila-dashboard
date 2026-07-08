@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: akila-dashboard
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python dashboard_server.py

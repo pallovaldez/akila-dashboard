@@ -1,0 +1,37 @@
+[
+  {
+    "ticker": "NOW",
+    "status": "watching",
+    "added_at": "2026-06-26"
+  },
+  {
+    "ticker": "FSLR",
+    "status": "watching",
+    "added_at": "2026-06-26"
+  },
+  {
+    "ticker": "BE",
+    "status": "watching",
+    "added_at": "2026-06-26"
+  },
+  {
+    "ticker": "MSFT",
+    "status": "watching",
+    "added_at": "2026-06-26"
+  },
+  {
+    "ticker": "PLTR",
+    "status": "watching",
+    "added_at": "2026-06-26"
+  },
+  {
+    "ticker": "NVO",
+    "status": "watching",
+    "added_at": "2026-06-28"
+  },
+  {
+    "ticker": "IREN",
+    "status": "watching",
+    "added_at": "2026-06-30"
+  }
+]

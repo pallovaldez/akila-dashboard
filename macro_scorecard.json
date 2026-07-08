@@ -1,0 +1,53 @@
+{
+  "updated": "Jul 2026",
+  "indicators": [
+    {
+      "name": "CPI (Inflación)",
+      "actual": "4.2%",
+      "prev": "3.8%",
+      "trend": "up",
+      "signal": "negative",
+      "note": "2026-05 · YoY"
+    },
+    {
+      "name": "NFP (Empleos)",
+      "actual": "+57K",
+      "prev": "+129K",
+      "trend": "down",
+      "signal": "negative",
+      "note": "2026-06"
+    },
+    {
+      "name": "PIB (QoQ)",
+      "actual": "+2.1%",
+      "prev": "+0.5%",
+      "trend": "up",
+      "signal": "positive",
+      "note": "2026-01 · QoQ"
+    },
+    {
+      "name": "ISM Manufacturing",
+      "actual": "48.7",
+      "prev": "49.0",
+      "trend": "down",
+      "signal": "negative",
+      "note": "Abr 2026 · <50 = contracción"
+    },
+    {
+      "name": "Fed Funds Rate",
+      "actual": "3.63%",
+      "prev": "3.63%",
+      "trend": "flat",
+      "signal": "neutral",
+      "note": "2026-06"
+    },
+    {
+      "name": "Desempleo",
+      "actual": "4.2%",
+      "prev": "4.3%",
+      "trend": "down",
+      "signal": "neutral",
+      "note": "2026-06"
+    }
+  ]
+}
